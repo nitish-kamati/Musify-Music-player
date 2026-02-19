@@ -38,3 +38,50 @@ The project focuses on building interactive UI components and handling audio fun
 
 ## 📂 Project Structure
 
+
+---
+
+## ⚙️ How It Works
+
+- JavaScript's `Audio` object is used to control music playback.
+- Event listeners handle play, pause, and navigation actions.
+- A song list is managed using `music_list.js`.
+- UI updates dynamically based on user interaction.
+
+---
+
+## 📚 What I Learned
+
+- Handling audio using JavaScript
+- DOM manipulation and event handling
+- Managing multiple JS files
+- Creating interactive UI elements
+- Structuring frontend projects properly
+
+---
+
+## 🎯 Purpose of the Project
+
+This project was built to strengthen my JavaScript fundamentals and understand how real-world interactive web applications are structured.
+
+---
+
+## 🌐 How to Run
+
+1. Clone or download the repository
+2. Open `index.html` in your browser
+3. Use the music controls to interact with the player
+
+---
+
+## 👨‍💻 Author
+
+**Nitish Kamati**  
+Java & Frontend Developer | Computer Science Student
+
+---
+
+⭐ If you like this project, feel free to explore and give feedback!
+
+
+
